@@ -9,5 +9,5 @@
 * исходный файл с данными ``Python.csv``
 * код программы ``airports_csv_to_kml.py``
 * полученный файл ``airports.kml``
-3. Для задания по Python необходимо установить библиотеку simplekml: pip install simplekml
 
+Для задания по Python необходимо установить библиотеку simplekml: pip install simplekml
